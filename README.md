@@ -1,11 +1,11 @@
-#Esta es mi pagina personal
+# Esta es mi pagina personal
 
-####Mi nombre es
+#### Mi nombre es
 Harold Salces
-####Mi profesion
+#### Mi profesion
 Ing. En Sistemas
 
-#Herramientas utilizadas 
+# Herramientas utilizadas 
 - https://github.com/michalsnik/aos
 - https://github.com/sarcadass/granim.js
 - https://github.com/daneden/animate.css
